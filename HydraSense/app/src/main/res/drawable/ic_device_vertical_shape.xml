@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Top Pipe -->
+    <item android:gravity="top|center_horizontal" android:top="0dp">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/app_accent_color"/>
+            <size android:width="8dp" android:height="160dp"/> <!-- Height extends to simulate full pipe -->
+        </shape>
+    </item>
+
+    <!-- Bottom Pipe (Covered by body, effectively same as top but visually consistent) -->
+
+    <!-- Main Capsule Body -->
+    <item android:gravity="center" android:top="30dp" android:bottom="30dp">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/app_accent_color"/>
+            <corners android:radius="24dp"/>
+            <size android:width="48dp" android:height="100dp"/>
+            <stroke android:width="2dp" android:color="#FFFFFF"/> <!-- White border for contrast -->
+        </shape>
+    </item>
+
+    <!-- Inner Detail: Water Level / Glass Effect -->
+    <item android:gravity="center" android:top="40dp" android:bottom="40dp" android:left="12dp" android:right="12dp">
+        <shape android:shape="rectangle">
+            <solid android:color="#42A5F5"/> <!-- Lighter Blue -->
+            <corners android:radius="16dp"/>
+        </shape>
+    </item>
+
+    <!-- Center Water Drop (Simple Circle for now) -->
+    <item android:gravity="center" android:width="12dp" android:height="12dp">
+        <shape android:shape="oval">
+            <solid android:color="#FFFFFF"/>
+        </shape>
+    </item>
+</layer-list>

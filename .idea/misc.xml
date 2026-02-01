@@ -1,0 +1,38 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/gokul/AndroidStudioProjects/HydraSense/app/src/main/res/drawable/bg_unit.xml" value="0.1835" />
+        <entry key="..\:/Users/gokul/AndroidStudioProjects/HydraSense/app/src/main/res/drawable/bg_water_gradient.xml" value="0.2015" />
+        <entry key="..\:/Users/gokul/AndroidStudioProjects/HydraSense/app/src/main/res/layout/activity_card.xml" value="0.1" />
+        <entry key="..\:/Users/gokul/AndroidStudioProjects/HydraSense/app/src/main/res/layout/activity_device.xml" value="0.17889492753623187" />
+        <entry key="..\:/Users/gokul/AndroidStudioProjects/HydraSense/app/src/main/res/layout/activity_diagostics.xml" value="0.18297101449275363" />
+        <entry key="..\:/Users/gokul/AndroidStudioProjects/HydraSense/app/src/main/res/layout/activity_login.xml" value="0.18297101449275363" />
+        <entry key="..\:/Users/gokul/AndroidStudioProjects/HydraSense/app/src/main/res/layout/activity_main.xml" value="0.1621376811594203" />
+        <entry key="..\:/Users/gokul/AndroidStudioProjects/HydraSense/app/src/main/res/layout/activity_ph_readings.xml" value="0.16" />
+        <entry key="..\:/Users/gokul/AndroidStudioProjects/HydraSense/app/src/main/res/layout/activity_profile.xml" value="0.2" />
+        <entry key="..\:/Users/gokul/AndroidStudioProjects/HydraSense/app/src/main/res/layout/activity_user.xml" value="0.25" />
+        <entry key="..\:/Users/gokul/AndroidStudioProjects/HydraSense/app/src/main/res/layout/activity_user2.xml" value="0.18" />
+        <entry key="..\:/Users/gokul/AndroidStudioProjects/HydraSense/app/src/main/res/layout/activity_user_details.xml" value="0.25" />
+        <entry key="..\:/Users/gokul/AndroidStudioProjects/HydraSense/app/src/main/res/layout/bg_card.xml" value="0.16621376811594202" />
+        <entry key="..\:/Users/gokul/AndroidStudioProjects/HydraSense/app/src/main/res/layout/dialog_pair_device.xml" value="0.2" />
+        <entry key="..\:/Users/gokul/AndroidStudioProjects/HydraSense/app/src/main/res/layout/item_user.xml" value="0.18297101449275363" />
+        <entry key="..\:/Users/gokul/AndroidStudioProjects/HydraSense/app/src/main/res/menu/bottom_nav_menu.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

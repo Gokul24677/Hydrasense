@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/home_w"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/nav_device"
+        android:icon="@drawable/device"
+        android:title="Device" />
+
+    <item
+        android:id="@+id/nav_analysis"
+        android:icon="@drawable/drop"
+        android:title="Analysis" />
+
+    <item
+        android:id="@+id/nav_meter"
+        android:icon="@drawable/diagnosis"
+        android:title="Meter" />
+
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/user"
+        android:title="Profile" />
+</menu>

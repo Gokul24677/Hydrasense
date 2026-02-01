@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator="@android:anim/accelerate_decelerate_interpolator">
+    
+    <!-- Vertical oscillation -->
+    <translate
+        android:duration="2000"
+        android:fromYDelta="-5dp"
+        android:toYDelta="5dp"
+        android:repeatCount="infinite"
+        android:repeatMode="reverse" />
+
+    <!-- Subtle side-to-side sway -->
+    <translate
+        android:duration="1500"
+        android:fromXDelta="-3dp"
+        android:toXDelta="3dp"
+        android:repeatCount="infinite"
+        android:repeatMode="reverse" />
+
+    <!-- Subtle tilt/wavy rotation -->
+    <rotate
+        android:duration="2500"
+        android:fromDegrees="-2"
+        android:toDegrees="2"
+        android:pivotX="50%"
+        android:pivotY="50%"
+        android:repeatCount="infinite"
+        android:repeatMode="reverse" />
+        
+</set>
